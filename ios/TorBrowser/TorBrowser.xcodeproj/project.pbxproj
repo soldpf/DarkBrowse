@@ -1,0 +1,118 @@
+// !\$*UTF8*\$!
+{
+  archiveVersion = 1;
+  classes = {};
+  objectVersion = 55;
+  objects = {
+
+/* Begin PBXProject section */
+    1D6058900D05DD3D006BFB54 /* Project object */ = {
+      isa = PBXProject;
+      attributes = {
+        LastUpgradeCheck = 1310;
+        ORGANIZATIONNAME = "Your Organization";
+      };
+      buildConfigurationList = 1D6058910D05DD3D006BFB54 /* Build configuration list for PBXProject */;
+      compatibilityVersion = "Xcode 13.0";
+      developmentRegion = English;
+      hasScannedForEncodings = 0;
+      knownRegions = (
+        en,
+        Base,
+      );
+      mainGroup = 1D60588D0D05DD3D006BFB54;
+      productRefGroup = 1D60588E0D05DD3D006BFB54 /* Products */;
+      projectDirPath = "";
+      projectRoot = "";
+      targets = (
+        1D6058920D05DD3D006BFB54 /* TorBrowser */,
+      );
+    };
+/* End PBXProject section */
+
+/* Begin PBXNativeTarget section */
+    1D6058920D05DD3D006BFB54 /* TorBrowser */ = {
+      isa = PBXNativeTarget;
+      buildConfigurationList = 1D6058930D05DD3D006BFB54 /* Build configuration list for PBXNativeTarget TorBrowser */;
+      buildPhases = (
+        1D6058940D05DD3D006BFB54 /* Sources */,
+        1D6058950D05DD3D006BFB54 /* Frameworks */,
+        1D6058960D05DD3D006BFB54 /* Resources */,
+      );
+      buildRules = (
+      );
+      dependencies = (
+      );
+      name = TorBrowser;
+      productName = TorBrowser;
+      productReference = 1D6058970D05DD3D006BFB54 /* TorBrowser.app */;
+      productType = "com.apple.product-type.application";
+    };
+/* End PBXNativeTarget section */
+
+/* Begin PBXSourcesBuildPhase section */
+    1D6058940D05DD3D006BFB54 /* Sources */ = {
+      isa = PBXSourcesBuildPhase;
+      buildActionMask = 2147483647;
+      files = (
+        /* Add your source files here */
+      );
+      runOnlyForDeploymentPostprocessing = 0;
+    };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXFrameworksBuildPhase section */
+    1D6058950D05DD3D006BFB54 /* Frameworks */ = {
+      isa = PBXFrameworksBuildPhase;
+      buildActionMask = 2147483647;
+      files = (
+      );
+      runOnlyForDeploymentPostprocessing = 0;
+    };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXResourcesBuildPhase section */
+    1D6058960D05DD3D006BFB54 /* Resources */ = {
+      isa = PBXResourcesBuildPhase;
+      buildActionMask = 2147483647;
+      files = (
+      );
+      runOnlyForDeploymentPostprocessing = 0;
+    };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXGroup section */
+    1D60588D0D05DD3D006BFB54 = {
+      isa = PBXGroup;
+      children = (
+        1D6058980D05DD3D006BFB54 /* TorBrowser */,
+        1D60588E0D05DD3D006BFB54 /* Products */,
+      );
+      sourceTree = "<group>";
+    };
+/* End PBXGroup section */
+
+/* Begin PBXGroup "TorBrowser" section */
+    1D6058980D05DD3D006BFB54 = {
+      isa = PBXGroup;
+      children = (
+        /* Add your source files references here */
+      );
+      sourceTree = "<group>";
+    };
+/* End PBXGroup "TorBrowser" section */
+
+/* Begin PBXFileReference section */
+    1D6058970D05DD3D006BFB54 /* TorBrowser.app */ = {
+      isa = PBXFileReference;
+      explicitFileType = "wrapper.application";
+      path = "TorBrowser.app";
+      sourceTree = "BUILT_PRODUCTS_DIR";
+    };
+/* End PBXFileReference section */
+
+/* Build configuration lists and configurations omitted for brevity */
+
+  };
+  rootObject = 1D6058900D05DD3D006BFB54 /* Project object */;
+}
