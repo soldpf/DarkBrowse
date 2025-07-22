@@ -1,0 +1,11 @@
+platform :ios, '12.0'
+
+target 'TorBrowser' do
+  use_frameworks!
+
+  pod 'React', :path => '../node_modules/react-native', :subspecs => [
+    'Core',
+    'RCTText',
+    'RCTNetwork'
+  ]
+end
